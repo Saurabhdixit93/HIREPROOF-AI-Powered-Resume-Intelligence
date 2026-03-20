@@ -61,7 +61,7 @@
 
    ```bash
    git clone https://github.com/Saurabhdixit93/HIREPROOF-AI-Powered-Resume-Intelligence.git
-   cd ResumeBuilderWithAI
+   cd HIREPROOF-AI-Powered-Resume-Intelligence
    ```
 
 2. **Setup Environment Variables**:
@@ -91,7 +91,6 @@
 
 - **`/client`**: The high-fidelity Next.js application.
 - **`/server`**: The Hono-powered API and AI service layer.
-- **`/server/src/workers`**: Redis-backed BullMQ workers for background PDF generation.
 - **`start.sh`**: Centralized deployment and management script.
 
 ---
